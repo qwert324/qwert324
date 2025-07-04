@@ -1,8 +1,8 @@
-- 👋 Hello world, I’m @qwert324
-- 👀 I’m interested in electoral campaign
-- 🌱 I’m currently learning R for a research
+- 👋 Hello world, I’m @qwert324 (Mauricio Valentino)
+- 👀 I’m interested in finance, data mining and environment issues
+- 🌱 I’m currently learning R and Excel deeply
 - 💞️ I’m looking to collaborate on everything I can.
-- 📫 How to reach me mauriciovalentino1999@gmail.com
+- 📫 How can youreach me mauriciovalentino1999@gmail.com
 
 <!---
 qwert324/qwert324 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
